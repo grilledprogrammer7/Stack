@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include "Stack.h"
-
+//this separate template code will not get compiled.
 using namespace std;
 
 template<typename T>
